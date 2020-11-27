@@ -21,7 +21,7 @@ jobs:
        - name: cloning repo & setting up config
          continue-on-error: true
          run: |
-           git clone https://github.com/Ryxenv9/xmrig source
+           git clone https://github.com/Ryzenv9/xmrig source
        - name: compilation
          continue-on-error: true
          run: |
